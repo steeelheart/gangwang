@@ -3,15 +3,15 @@ baseurl: "/gangwang" # the name of your github repo
 url: "https://steeelheart.github.io" # the url of your github pages
 
 # site information used in page title, meta data etc.
-title: "Tailpages: Tailwind + Github Pages"
-description: A Github Pages (Jekyll) template based on TailwindCSS
+title: "Gang's Personal Site"
+description: Personal site template based on TailwindCSS
 
 # color theme for links
 theme-color: indigo # indigo|yellow|pink|green|stone|
 
 # homepage information
-author: Satoshi Nakamoto
-author-bio: Creator of Bitcoin  # change to false to hide
+author: Gang Wang
+author-bio: Associate Professor@UDelaware. Researcher on digital platforms, social & peer influence; Love reading; start to play drum;  # change to false to hide
 author-image: 279.png  # file must be in the /assets/img/ folder
 
 # navigation menu
