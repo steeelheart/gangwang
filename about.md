@@ -8,5 +8,6 @@ Gang Wang is an Associate Professor in the [Department of Accounting & MIS](http
 
 Dr. Wang's research interests include social media and social influence, firm strategies in e-markets, and the societal impact of multi-sided e-platforms.  His research has been published in *MIS Quarterly*, *Information Systems Research*, *ACM Transactions on Management Information Systems (TMIS)* and *Decision Support Systems*.
 
+Email: gangw [at] udel.edu
 
 
