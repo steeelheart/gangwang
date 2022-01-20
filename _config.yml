@@ -22,6 +22,8 @@ nav-menu:
   permalink: about
 - text: Research
   permalink: bitcoin
+- text: Teaching
+  permalink: teaching
 - text: Blog
   permalink: blog
 
