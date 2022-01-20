@@ -28,10 +28,11 @@ nav-menu:
   permalink: blog
 
 # use false to turn off any social media links
+Google Scholar: https://scholar.google.com/citations?user=lywEk9IAAAAJ&hl=en
 twitter: https://twitter.com/steeelheart
 facebook: false
-instagram: https://instagram.com/
-github: https://github.com/
+instagram: false
+github: false
 linkedin: https://linkedin.com/
 medium: false
 email: false
