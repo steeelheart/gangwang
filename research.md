@@ -1,6 +1,6 @@
 ---
-layout:page
-title: test
+layout: page
+title: Research
 permalink:research
 ---
 
