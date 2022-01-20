@@ -4,7 +4,8 @@ title: Research
 permalink:research
 ---
 
-# Working Papers
+
+## Working Papers
 
 
-# Journal Publications
+## Journal Publications
