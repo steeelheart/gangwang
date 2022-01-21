@@ -4,7 +4,9 @@ title: Research
 permalink:research
 --- 
 
-test test
+---
+title: Research
+---
 
 ## Selected Working Papers
 - Hongfei Li, Jing Peng, **Gang Wang**, and Xue Bai. “**The Impact of Process- Versus Outcome-Oriented Reviews on the Sales of Healthcare Services**”, Under review at *Information Systems Research*.
