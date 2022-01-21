@@ -9,7 +9,7 @@ permalink:research
 
 - Hongfei Li, Jing Peng, **Gang Wang**, and Xue Bai. “**The Impact of Process- Versus Outcome-Oriented Reviews on the Sales of Healthcare Services**”, Under review at *Information Systems Research*.
 - Zhuoxin Li, and **Gang Wang**. “**The Role of On-Demand Delivery Platforms in Restaurants**”, Revise&Resubmit at *Management Science*.
-- Zhuoxin Li, and **Gang Wang**. “**Regulating Powerful Platforms: Evidence from Commission Fee Caps in OnDemand Services**”, Under Preparation for Submission.
+- Zhuoxin Li, and **Gang Wang**. “**Regulating Powerful Platforms: Evidence from Commission Fee Caps in On-Demand Services**”, Under Preparation for Submission.
 
 ### Journal Publications
 
