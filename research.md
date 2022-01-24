@@ -1,9 +1,8 @@
 ---
 layout: page
 title:  Research
-permalink:research
---- 
-
+permalink: research
+---
 
 ### Selected Working Papers
 
