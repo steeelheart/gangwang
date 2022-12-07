@@ -10,6 +10,6 @@ Such a conversational mentality is beyond a writing style. It is to be more spec
 
 Second, although judging the theoretical contribution is subjective, the ultimate criterion is to see whether a paper advances our understanding of theories and/or relationships between theoretical concepts. One of the questions discussed is about new settings/contexts. What makes a paper with significant theoretical contributions is not about the specific context itself, but whether the context makes current theories different or invalid and whether this paper has revised/expanded the theories. <p>
 
-Third, we also discussed how to provide comments on the endogeneity issue. It will be helpful for reviewers to jump out of the box of viewing the endogeneity issue as a pure empirical/technical issue. Instead, reviewers still need to link back to the theoretical value of the paper. A great reviewer can make the tradeoff between theoretical contributions and empirical challenges.  
+Third, we also discussed how to provide comments on the endogeneity issue. It will be helpful for reviewers to jump out of the box of viewing the endogeneity issue as a pure empirical/technical issue. Instead, reviewers still need to link back to the theoretical value of the paper. A great reviewer can make the tradeoff between theoretical contributions and empirical challenges.   
 
   
