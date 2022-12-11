@@ -4,8 +4,9 @@ title: Teaching
 permalink: teaching
 ---
 
-## Teaching Interests
+## Teaching Philosophy
 
-My teaching interests include:
+"Tell me and I forget. Teach me and I remember. Involve me and I learn." -- Benjamin Franklin
 
-**Courses Taught**
+## Courses Taught
+**Causal Analytics for Business Decisions**
